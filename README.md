@@ -1,4 +1,4 @@
-# Search-method
+# Search-methods
 MATH110 Optimization HW 3
 
 Used python to develop algorithm of Golden section search, Fibonacci method, Newton's Method, Secant Method.
