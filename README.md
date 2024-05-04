@@ -1,4 +1,4 @@
-# Search-methods
+# Optimization
 
 Various optimization methods, such as linear search method, trust region method, Newton method, linear program-
 ming, linear and non-linear least square method, scripted in MATLAB and Python
